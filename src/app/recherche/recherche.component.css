@@ -1,5 +1,5 @@
-#rechercheField {
-    position: absolute;
-    top: 20px;
-    left: 20px;
+#rechercheField input {
+    width: 200px;
+    border-radius: 0px;
+    box-shadow: 0px 2px 5px rgba(20, 20, 20, 0.3);
 }
